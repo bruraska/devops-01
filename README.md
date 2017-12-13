@@ -1,3 +1,4 @@
 Futebol
-Poker
+Corrida
 Luta
+Academia
